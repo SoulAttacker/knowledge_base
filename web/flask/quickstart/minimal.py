@@ -102,3 +102,5 @@ def show_the_login_form():
 #     return render_template('weilcome.html', name=name)
 
 
+if __name__ == '__main__':
+    app.run()
